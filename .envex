@@ -1,0 +1,2 @@
+# Copie para .env (no Windows: copy .envex .env)
+VITE_API_URL=http://localhost:3000/v1
